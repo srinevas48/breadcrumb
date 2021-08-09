@@ -1,0 +1,15 @@
+package us.kpmg.core6x.dataproviders.utilities;
+
+public final class UrlUtility {
+    private UrlUtility() {
+    }
+
+    public static String getURL(String path) {
+
+        // append .html to links that start with a slash that don't already have it
+        if(path != null && !path.isEmpty() && path.startsWith("/") && !path.endsWith(".html")) {
+            path = path + ".html";
+        }
+        return path;
+    }
+}
