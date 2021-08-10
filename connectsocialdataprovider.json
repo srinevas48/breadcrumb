@@ -1,0 +1,44 @@
+{
+  "jcr:primaryType": "cq:Page",
+  "jcr:createdBy": "vengatapathy.p@fs.mphasis.com",
+  "jcr:created": "Fri Jun 24 2016 09:43:03 GMT-0500",
+  "jcr:content": {
+    "jcr:primaryType": "cq:PageContent",
+    "jcr:mixinTypes": [
+      "mix:lockable",
+      "mix:referenceable",
+      "cq:metaMixin"
+    ],
+    "jcr:createdBy": "vengatapathy.p@fs.mphasis.com",
+    "jcr:title": "AIG | AIG Retirement Services",
+    "ghostPage": "false",
+    "deactiveWFI": "mahidhar.chaluvadi@mphasis.com",
+    "pageChangeFrequency": " ",
+    "cq:lastReplicationAction": "Activate",
+    "cq:template": "/apps/valicpublic/templates/homepage",
+    "cq:lastReplicatedBy": "workflow-process-service",
+    "proposedDeactivationTimeZone": "GMT",
+    "absoluteTime": "0",
+    "useInherited": "true",
+    "jcr:created": "Fri Jun 24 2016 09:43:03 GMT-0500",
+    "cq:lastReplicated": "Tue Jul 07 2020 12:27:35 GMT+0000",
+    "cq:lastModified": "Mon Aug 09 2021 07:03:00 GMT+0000",
+    "useInheritedTags": "true",
+    "jcr:description": "We all want a future that’s worth looking forward to. Helping people achieve their goals is what AIG Retirement Services is all about. We call it being FutureFIT® — which stands for Freedom. Individually Tailored®. FutureFIT is all about owning your future — living tomorrow the way you choose — and enjoying life the way you want.",
+    "urlpriority": "0.6",
+    "pageTitle": "AIG Retirement Services",
+    "jcr:uuid": "f108515a-d3d5-4ca9-80b3-9e6fc2b7a7bc",
+    "sling:resourceType": "valicpublic/components/pages/homepage",
+    "cq:lastModifiedBy": "Srinivas.Muvvala@aig.com",
+    "proposedActivationTimeZone": "GMT",
+    "heroimage": {
+      "jcr:primaryType": "nt:unstructured",
+	  "locationLink":"https://home.kpmg.com/us/en/home/about/offices.html",
+	  "peopleLink": "http://kpmg.com",
+	  "rssLink":"/content/valicpublic",
+      "expath":"/content/valicpublic/home",
+	  "rssLink1":"kpmg-core-6x/components/templates/home"
+    }
+ 
+  }
+}
