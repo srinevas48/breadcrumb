@@ -1,0 +1,672 @@
+{
+  "jcr:primaryType":"cq:Page",
+  "jcr:createdBy":"admin",
+  "jcr:created":"Wed May 26 2021 14:59:46 GMT-0400",
+  "jcr:content":{
+    "jcr:primaryType":"cq:PageContent",
+    "jcr:mixinTypes":[
+      "mix:versionable"
+    ],
+    "jcr:createdBy":"admin",
+    "jcr:title":"Component Examples",
+    "jcr:versionHistory":"ffd3d32f-f356-4998-8ca9-63e160bd96fe",
+    "cq:template":"/conf/kpmg-core/settings/wcm/templates/insights65",
+    "articlePrimaryFormat":"None",
+    "imageAlt":"Component Examples",
+    "jcr:predecessors":[
+      "4d0bfc39-5e12-452e-96da-16068aa478c3"
+    ],
+    "contentType":"insight",
+    "hideInPageList":"true",
+    "cq:contextHubSegmentsPath":"/etc/segmentation/contexthub",
+    "jcr:created":"Wed May 26 2021 14:59:46 GMT-0400",
+    "cq:lastModified":"Wed Aug 11 2021 13:36:38 GMT-0400",
+    "cq:cloudserviceconfigs":[
+      "/etc/cloudservices/dynamictagmanagement/kpmg-dtm-6-x"
+    ],
+    "jcr:description":"Page description describes what is on the page. For use in Google SERPS and other component displays.",
+    "jcr:baseVersion":"4d0bfc39-5e12-452e-96da-16068aa478c3",
+    "jcr:isCheckedOut":true,
+    "articleType":"Article",
+    "hideInNav":"true",
+    "jcr:uuid":"86b91e33-dc09-46b0-8253-9173172e9380",
+    "featuredbios":"{\"featuredbiopath\":\"/content/global/bios/h/hirsh-adam\"}",
+    "sling:resourceType":"kpmg-core-6x/components/structure/page",
+    "cq:contextHubPath":"/etc/cloudsettings/default/contexthub",
+    "excludeFromSearch":"true",
+    "footerPath":"/content/global/footers/advisory/en/advisory-footer",
+    "dateTime":"Tue Nov 10 2020 13:14:00 GMT-0500",
+    "cq:lastModifiedBy":"admin",
+    "headerPath":"/content/global/headers/advisory/en/advisory-header",
+    "navTitle":"Component examples",
+    "root":{
+      "jcr:primaryType":"nt:unstructured",
+      "jcr:lastModifiedBy":"US6644264",
+      "jcr:lastModified":"Tue Aug 27 2019 09:45:59 GMT-0400",
+      "sling:resourceType":"wcm/foundation/components/responsivegrid",
+      "page_header_backgrou":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"US6644264",
+        "jcr:lastModifiedBy":"US6644264",
+        "sectionBackgroundStyle":"background-parallax",
+        "jcr:created":"Tue Aug 27 2019 10:04:42 GMT-0400",
+        "imgheight":"400",
+        "sectionNames":[
+          "{\"sectionName\":\"Card 12\"}"
+        ],
+        "jcr:lastModified":"Thu Dec 05 2019 17:17:02 GMT-0500",
+        "sling:resourceType":"kpmg-core-6x/components/structure/page/page-header-background-image",
+        "cardpar0":{
+          "jcr:primaryType":"nt:unstructured",
+          "sling:resourceType":"wcm/foundation/components/responsivegrid",
+          "text":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US6644264",
+            "jcr:lastModifiedBy":"US6644264",
+            "jcr:created":"Mon Sep 02 2019 21:28:06 GMT-0400",
+            "text":"<p><br>\n<br>\n</p>\n",
+            "jcr:lastModified":"Thu Dec 05 2019 17:13:54 GMT-0500",
+            "sling:resourceType":"kpmg-core-6x/components/content/text/v2/text",
+            "textIsRich":"true"
+          },
+          "page_title_header_co":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US6644264",
+            "jcr:lastModifiedBy":"US6644264",
+            "jcr:created":"Tue Aug 27 2019 10:07:13 GMT-0400",
+            "jcr:lastModified":"Tue Aug 27 2019 10:07:13 GMT-0400",
+            "sling:resourceType":"kpmg-core-6x/components/structure/page/page-title-header-copy",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"8"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"8"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "page_bio_card":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US6644264",
+            "jcr:lastModifiedBy":"US6644264",
+            "jcr:created":"Tue Aug 27 2019 10:08:09 GMT-0400",
+            "jcr:lastModified":"Tue Aug 27 2019 10:08:09 GMT-0400",
+            "sling:resourceType":"kpmg-core-6x/components/structure/page-bio-card",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"3"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "offset":"0",
+                "width":"4"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"10"
+              }
+            }
+          },
+          "social_page_share_ad":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US6644264",
+            "jcr:lastModifiedBy":"US6644264",
+            "jcr:created":"Fri Oct 25 2019 11:07:21 GMT-0400",
+            "jcr:lastModified":"Fri Oct 25 2019 11:07:21 GMT-0400",
+            "sling:resourceType":"kpmg-core-6x/components/content/social-page-share-advisory",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"1"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"2"
+              }
+            }
+          },
+          "breadcrumbs":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"admin",
+            "jcr:lastModifiedBy":"admin",
+            "jcr:created":"Mon Aug 09 2021 13:07:10 GMT-0400",
+            "jcr:lastModified":"Mon Aug 09 2021 13:07:10 GMT-0400",
+            "sling:resourceType":"cq/searchpromote/components/breadcrumbs"
+          }
+        }
+      },
+      "section_background_c":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"US6644264",
+        "jcr:lastModifiedBy":"US6644264",
+        "columnOptions":"onecol",
+        "jcr:created":"Thu Dec 05 2019 17:13:21 GMT-0500",
+        "sectionNames":[
+          "{\"sectionName\":\"Card 1\"}"
+        ],
+        "jcr:lastModified":"Thu Dec 05 2019 17:13:26 GMT-0500",
+        "sling:resourceType":"kpmg-core-6x/components/content/section-background-container",
+        "cardpar0":{
+          "jcr:primaryType":"nt:unstructured",
+          "sling:resourceType":"wcm/foundation/components/responsivegrid",
+          "text":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US6644264",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Thu Dec 05 2019 17:21:20 GMT-0500",
+            "text":"<h2>Rich Text Component example</h2>\n<p><b>This component contains a full set of text editing tools to adjust the formatting, images, lists, links, etc.</b>. <b><i>Sed ut perspiciatis unde</i></b> omnis <sup>iste natus er</sup>ror sit vo<sub>luptatem accu</sub>santium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni&nbsp;</p>\n<p style=\"text-align: center;\">dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.&nbsp;</p>\n<p style=\"text-align: right;\">&nbsp;</p>\n",
+            "jcr:lastModified":"Tue Nov 10 2020 16:56:53 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/text/v2/text",
+            "textIsRich":"true"
+          }
+        }
+      },
+      "section_background_c_1420903673":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"chelms@kpmg.com",
+        "effects":"none",
+        "jcr:lastModifiedBy":"US0306632",
+        "sectionBackgroundStyle":"background-static",
+        "columnOptions":"onecol",
+        "jcr:created":"Sun Feb 23 2020 20:15:58 GMT-0500",
+        "imgheight":"370",
+        "sectionNames":[
+          "{\"sectionName\":\"Card 1\"}"
+        ],
+        "jcr:lastModified":"Tue Nov 10 2020 16:51:22 GMT+0000",
+        "sling:resourceType":"kpmg-core-6x/components/content/section-background-container",
+        "backgroundColor":"#0091da",
+        "cardpar0":{
+          "jcr:primaryType":"nt:unstructured",
+          "sling:resourceType":"wcm/foundation/components/responsivegrid",
+          "section_divider":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"chelms@kpmg.com",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Sun Feb 23 2020 20:17:07 GMT-0500",
+            "jcr:lastModified":"Tue Nov 10 2020 16:50:27 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/section-divider",
+            "sectionDividerText":"This is a Section Divider with text. It is sitting in a Section Background Container.",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "text":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 16:50:45 GMT+0000",
+            "text":"<p>Note: The Section Background container can have a colored background or an image in the background.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>\n",
+            "jcr:lastModified":"Tue Nov 10 2020 18:54:00 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/text/v2/text",
+            "textIsRich":"true"
+          },
+          "card":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"chelms@kpmg.com",
+            "card-absolutelink":"https://www.woundedwarriorproject.org/",
+            "description":"This is a card component. Usually used to link to other content pages",
+            "jcr:lastModifiedBy":"admin",
+            "photoPath":"/content/dam/advisory/en/images/1564x880-6.3-table-chair.jpg",
+            "contentType":"none",
+            "jcr:created":"Sun Feb 23 2020 20:17:43 GMT-0500",
+            "title":"Example of a Card Component",
+            "contentCompletion":"manually-complete",
+            "jcr:lastModified":"Wed Aug 11 2021 13:28:50 GMT-0400",
+            "sling:resourceType":"kpmg-core-6x/components/content/card",
+            "categories":"service",
+            "dateFilterBy":"title",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "call_out_block":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "description":"This is the Call out block component. This has a color background and up to 2 links.",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 17:25:58 GMT+0000",
+            "title":"Call out block",
+            "fontType":"arial",
+            "linkOnePath":"/content/advisory/en/index",
+            "linkOneText":"Link within Advisory",
+            "jcr:lastModified":"Tue Nov 10 2020 18:21:23 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/call-out-block",
+            "backgroundColor":"background-violet",
+            "linkTwoPath":"https://www.amazon.com/",
+            "linkTwoText":"Link to external site",
+            "imgPath":"/content/dam/advisory/en/images/2020-tprm-share-forum-banner.jpg",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "offset":"3",
+                "width":"9"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "card_515648728":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"admin",
+            "jcr:lastModifiedBy":"admin",
+            "imageBox":"true",
+            "contentType":"none",
+            "featuredBox":"true",
+            "jcr:created":"Wed Aug 11 2021 13:33:47 GMT-0400",
+            "hideCategoryIcon":"true",
+            "cardPath":"/content",
+            "contentCompletion":"auto-complete",
+            "jcr:lastModified":"Wed Aug 11 2021 13:34:53 GMT-0400",
+            "sling:resourceType":"kpmg-core-6x/components/content/card",
+            "categories":"none",
+            "dateFilterBy":"title",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "card_1259404830":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"admin",
+            "jcr:lastModifiedBy":"admin",
+            "contentType":"event",
+            "jcr:created":"Wed Aug 11 2021 13:35:07 GMT-0400",
+            "tags":[
+              "kpmg-advisory:event/webcasts"
+            ],
+            "contentCompletion":"latest",
+            "jcr:lastModified":"Wed Aug 11 2021 13:36:38 GMT-0400",
+            "sling:resourceType":"kpmg-core-6x/components/content/card",
+            "categories":"none",
+            "dateFilterBy":"ondemand",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          }
+        }
+      },
+      "section_background_c_154292562":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"US0306632",
+        "effects":"none",
+        "jcr:lastModifiedBy":"US0306632",
+        "sectionBackgroundStyle":"background-static",
+        "columnOptions":"onecol",
+        "jcr:created":"Tue Nov 10 2020 17:29:53 GMT+0000",
+        "imgheight":"370",
+        "sectionNames":[
+          "{\"sectionName\":\"Card 1\"}"
+        ],
+        "jcr:lastModified":"Tue Nov 10 2020 17:30:05 GMT+0000",
+        "sling:resourceType":"kpmg-core-6x/components/content/section-background-container",
+        "backgroundColor":"#ffffff",
+        "cardpar0":{
+          "jcr:primaryType":"nt:unstructured",
+          "sling:resourceType":"wcm/foundation/components/responsivegrid",
+          "text":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 17:22:21 GMT+0000",
+            "text":"<p>This section has a tab component in it.</p>\n",
+            "jcr:lastModified":"Tue Nov 10 2020 17:22:52 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/text/v2/text",
+            "textIsRich":"true"
+          },
+          "tabs":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 16:58:06 GMT+0000",
+            "jcr:lastModified":"Tue Nov 10 2020 18:34:39 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/tabs2/v1/tabs",
+            "item_1605028572384":{
+              "jcr:primaryType":"nt:unstructured",
+              "tagsMatch":"any",
+              "cq:panelTitle":"Tab with a page list.",
+              "orderBy":"jcr:title",
+              "jcr:lastModifiedBy":"US0306632",
+              "pageMax":"2",
+              "parentPage":"/content/advisory/en/index/articles/2016",
+              "limit":"6",
+              "title":"Page list component",
+              "displayAs":"newsAndImage",
+              "displayCategoryAndIcon":"true",
+              "jcr:lastModified":"Tue Nov 10 2020 18:35:07 GMT+0000",
+              "sling:resourceType":"kpmg-core-6x/components/content/page-list",
+              "listFrom":"children",
+              "displayTitle":"true"
+            },
+            "item_1605028535382":{
+              "jcr:primaryType":"nt:unstructured",
+              "cq:panelTitle":"Tab with a rich text component",
+              "jcr:lastModifiedBy":"US0306632",
+              "text":"<h3>This is a rich text editor component in a Tab.&nbsp;</h3>\n<ul>\n<li>This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;</li>\n<li>This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;</li>\n<li>This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;This is a rich text editor component in a Tab.&nbsp;</li>\n</ul>\n",
+              "jcr:lastModified":"Tue Nov 10 2020 18:32:32 GMT+0000",
+              "sling:resourceType":"kpmg-core-6x/components/content/text/v2/text",
+              "textIsRich":"true"
+            }
+          },
+          "rawhtml":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 18:24:30 GMT+0000",
+            "html":"<hr></br>",
+            "jcr:lastModified":"Tue Nov 10 2020 18:48:27 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/rawhtml"
+          },
+          "content_item_wide":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "description":"The content item wide component can contain an image, YouTube link, download button and link to another page.",
+            "readMoreText":"link to another page",
+            "jcr:lastModifiedBy":"US0306632",
+            "altText":"alt text",
+            "fileText":"File display text",
+            "article":"/content/advisory/en/index/about",
+            "jcr:created":"Tue Nov 10 2020 17:34:31 GMT+0000",
+            "youtubeText":"YouTube Display Text",
+            "file":"/content/dam/blc/pdfs/2016/focusing-on-what-counts.pdf",
+            "image":"/content/dam/advisory/en/images/2014outlooksurveys-energy.jpg",
+            "title":"Content Item Wide component",
+            "youtubeId":"Scoi7hSeDKg",
+            "articleType":"page",
+            "jcr:lastModified":"Tue Nov 10 2020 17:45:25 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/content-item-wide",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "rawhtml_copy":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 18:24:30 GMT+0000",
+            "html":"</br>",
+            "jcr:lastModified":"Tue Nov 10 2020 18:24:44 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/rawhtml"
+          }
+        }
+      },
+      "section_background_c_698871398":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"US0306632",
+        "jcr:lastModifiedBy":"US0306632",
+        "jcr:created":"Tue Nov 10 2020 18:26:38 GMT+0000",
+        "sectionNames":[
+          "{\"sectionName\":\"Card 1\"}"
+        ],
+        "jcr:lastModified":"Tue Nov 10 2020 18:26:38 GMT+0000",
+        "sling:resourceType":"kpmg-core-6x/components/content/section-background-container",
+        "cardpar0":{
+          "jcr:primaryType":"nt:unstructured",
+          "sling:resourceType":"wcm/foundation/components/responsivegrid",
+          "accordian":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 17:25:13 GMT+0000",
+            "title":"Accordion Example",
+            "jcr:lastModified":"Tue Nov 10 2020 17:25:36 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/accordian",
+            "accordian-content":{
+              "jcr:primaryType":"nt:unstructured",
+              "sling:resourceType":"wcm/foundation/components/responsivegrid",
+              "download":{
+                "jcr:primaryType":"nt:unstructured",
+                "jcr:createdBy":"US0306632",
+                "fileReference":"/content/dam/global/pdfs/2020/climate-change-and-corporate-value.pdf",
+                "jcr:lastModifiedBy":"US0306632",
+                "contentType":"Issue",
+                "jcr:created":"Tue Nov 10 2020 17:31:07 GMT+0000",
+                "title":"Download Card component",
+                "jcr:lastModified":"Tue Nov 10 2020 17:33:51 GMT+0000",
+                "sling:resourceType":"kpmg-core-6x/components/content/download",
+                "cq:responsive":{
+                  "jcr:primaryType":"nt:unstructured",
+                  "default":{
+                    "jcr:primaryType":"nt:unstructured",
+                    "width":"4"
+                  },
+                  "tablet":{
+                    "jcr:primaryType":"nt:unstructured",
+                    "width":"6"
+                  },
+                  "phone":{
+                    "jcr:primaryType":"nt:unstructured",
+                    "width":"12"
+                  }
+                }
+              },
+              "download_classic":{
+                "jcr:primaryType":"nt:unstructured",
+                "jcr:createdBy":"US0306632",
+                "description":"Description of the download.",
+                "fileReference":"/content/dam/global/pdfs/2020/climate-change-and-corporate-value.pdf",
+                "jcr:lastModifiedBy":"US0306632",
+                "jcr:created":"Tue Nov 10 2020 17:31:17 GMT+0000",
+                "title":"Download Image/Title Example",
+                "jcr:lastModified":"Tue Nov 10 2020 17:32:55 GMT+0000",
+                "sling:resourceType":"kpmg-core-6x/components/content/download-classic",
+                "backgroundColor":"background-transparent",
+                "thumbnailSize":"319.319",
+                "cq:responsive":{
+                  "jcr:primaryType":"nt:unstructured",
+                  "default":{
+                    "jcr:primaryType":"nt:unstructured",
+                    "offset":"4",
+                    "width":"4"
+                  }
+                }
+              }
+            }
+          },
+          "rawhtml_copy_copy":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 18:24:30 GMT+0000",
+            "html":"</br><hr></br>",
+            "jcr:lastModified":"Tue Nov 10 2020 18:52:55 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/rawhtml"
+          },
+          "download_copy":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "fileReference":"/content/dam/global/pdfs/2020/climate-change-and-corporate-value.pdf",
+            "jcr:lastModifiedBy":"US0306632",
+            "contentType":"Issue",
+            "jcr:created":"Tue Nov 10 2020 17:31:07 GMT+0000",
+            "title":"Download Card component",
+            "jcr:lastModified":"Tue Nov 10 2020 17:33:51 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/download",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"4"
+              },
+              "tablet":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"6"
+              },
+              "phone":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          },
+          "download_classic_cop":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "description":"Description of the download.",
+            "fileReference":"/content/dam/global/pdfs/2020/climate-change-and-corporate-value.pdf",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 17:31:17 GMT+0000",
+            "title":"Download Image/Title Example",
+            "jcr:lastModified":"Tue Nov 10 2020 18:17:43 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/download-classic",
+            "backgroundColor":"background-transparent",
+            "thumbnailSize":"140.100",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "offset":"4",
+                "width":"4"
+              }
+            }
+          },
+          "event_list":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "orderBy":"dateTime",
+            "jcr:lastModifiedBy":"US0306632",
+            "pageMax":"2",
+            "jcr:created":"Tue Nov 10 2020 18:18:40 GMT+0000",
+            "tags":[
+              "tax:events/webcast"
+            ],
+            "eventType":"webcast",
+            "limit":"6",
+            "title":"Event List Component",
+            "displayAs":"newsAndImage",
+            "jcr:lastModified":"Tue Nov 10 2020 18:20:19 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/event-list",
+            "listFrom":"false",
+            "dateFilterBy":"allevents",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "width":"12"
+              }
+            }
+          }
+        }
+      },
+      "section_background_c_1243119893":{
+        "jcr:primaryType":"nt:unstructured",
+        "jcr:createdBy":"US0306632",
+        "jcr:lastModifiedBy":"US0306632",
+        "jcr:created":"Tue Nov 10 2020 18:35:52 GMT+0000",
+        "sectionNames":[
+          "{\"sectionName\":\"Card 1\"}"
+        ],
+        "jcr:lastModified":"Tue Nov 10 2020 18:35:52 GMT+0000",
+        "sling:resourceType":"kpmg-core-6x/components/content/section-background-container",
+        "cardpar0":{
+          "jcr:primaryType":"nt:unstructured",
+          "sling:resourceType":"wcm/foundation/components/responsivegrid",
+          "text":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 18:47:02 GMT+0000",
+            "text":"<p>Carousel Component: useful for display of image collections</p>\n",
+            "jcr:lastModified":"Tue Nov 10 2020 18:47:39 GMT+0000",
+            "sling:resourceType":"kpmg-core-6x/components/content/text/v2/text",
+            "textIsRich":"true"
+          },
+          "carousel":{
+            "jcr:primaryType":"nt:unstructured",
+            "jcr:createdBy":"US0306632",
+            "arrows":"true",
+            "jcr:lastModifiedBy":"US0306632",
+            "jcr:created":"Tue Nov 10 2020 18:36:01 GMT+0000",
+            "autopauseDisabled":"false",
+            "delay":"5000",
+            "jcr:lastModified":"Tue Nov 10 2020 18:46:55 GMT+0000",
+            "accessibilityLabel":"Carousel component",
+            "sling:resourceType":"kpmg-core-6x/components/content/carousel/v1/carousel",
+            "autoplay":"false",
+            "cq:responsive":{
+              "jcr:primaryType":"nt:unstructured",
+              "default":{
+                "jcr:primaryType":"nt:unstructured",
+                "offset":"0",
+                "width":"6"
+              }
+            },
+            "image_690830083":{
+              "jcr:primaryType":"nt:unstructured",
+              "jcr:createdBy":"US0306632",
+              "fileReference":"/content/dam/boardleadership/en/images/2021/engagment-more-imperative_1564x880.jpg",
+              "jcr:lastModifiedBy":"US0306632",
+              "jcr:created":"Tue Nov 10 2020 18:36:21 GMT+0000",
+              "displayPopupTitle":"true",
+              
